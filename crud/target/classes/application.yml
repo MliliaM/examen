@@ -1,0 +1,12 @@
+#spring:
+#  datasource:
+#    username: root
+#    password: data1234
+#    url: jdbc:mysql://localhost:3308/examen
+#    driver-class-name: com-mysql.cj.jdbc.Driver
+#  jpa:
+#    show-sql: true
+#    hibernate:
+#      ddl-auto: update
+#    properties:
+#      dialect: org.hibernate.dialect.MySQL5Dialect

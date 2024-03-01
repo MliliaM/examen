@@ -1,0 +1,6 @@
+com\examen\crud\entity\Rol.class
+com\examen\crud\controller\UsuarioController.class
+com\examen\crud\CrudApplication.class
+com\examen\crud\service\UsuarioService.class
+com\examen\crud\entity\Usuario.class
+com\examen\crud\repository\UsuarioRepository.class

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.examen.crud.CrudApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.395 s - in com.examen.crud.CrudApplicationTests
